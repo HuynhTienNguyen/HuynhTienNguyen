@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huynhtiennguyen&label=Profile%20views&color=0e75b6&style=flat" alt="huynhtiennguyen" /> </p>
 
-- 🌱 I’m currently learning **SQL Server, DSA, OOP**
+- 🌱 I’m currently learning **DSA, OOP, System analysis and design, Machine learning, Project management**
 
 - 📫 How to reach me **nguyenhuynhtien2211@gmail.com**
 
